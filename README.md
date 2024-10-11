@@ -19,6 +19,7 @@ The SVG Logo Maker is a command-line application built with Node.js that generat
 ## Installation
 
 Clone repo from https://github.com/erinspix/logo_generator.git
+and use "npm install" to install dependancies.
 
 ## Usage
 
