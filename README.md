@@ -49,3 +49,5 @@ Email: e.spix@yahoo.com
 
 - **terminal**: ![Terminal Interaction](./images/SVG-logo-terminal.png)
 - **Logo**: ![End Result Logo](./images/svg-logo.png)
+-**DEMO**:
+[Watch demo video](./assets/demo.mp4)
